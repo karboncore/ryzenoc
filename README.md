@@ -7,7 +7,7 @@ Based on zenstates.py (https://github.com/r4m0n/ZenStates-Linux), but without th
 ### Usage:
 
     ryzenoc [-h] [-l] [-p {0,1,2,3,4,5,6,7}] [--enable] [--disable]
-                  [-f FID] [-d DID] [-v VID] [--c6-enable] [--c6-disable]
+            [-f FID] [-d DID] [-v VID] [--c6-enable] [--c6-disable]
 
     sets P-states for Ryzen processors
 
